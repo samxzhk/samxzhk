@@ -1,24 +1,4 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Creepster&family=IM+Fell+English+SC&display=swap');
 
-    font {
-        font-family: 'Creepster', cursive;
-font-family: 'IM Fell English SC', serif;
-    }
-    li 
-    {
-        list-style:none;
-        margin-block:1rem;
-    }
-    name
-    {
-        display:inline-block;
-        padding:1px 5px;
-        background-color:#345B63;
-        color:white;
-    }
-
-</style>
 
 <h2 align='center'><font>Hello there 👋 ! Welcome to my profile😄</font></h3>
 <br>
@@ -30,17 +10,18 @@ font-family: 'IM Fell English SC', serif;
 
 ## About me:
 <ul>
-    <li> 🌱 - <name>Name</name>: Sâmia </li>
-    <li>🧸- <name>Pronouns</name>: she/her</li>
-    <li>🔥 - <name>Hobbies</name>: studying, drawing and listening to music</li>
-    <li>💻 - <name>Occupation</name>: Computer Science student</li>
-    <li>⌚ - <name>Current ultimate goal</name>: to be the best at math</li>
+    <li> 🌱 - >Name: Sâmia </li>
+    <li>🧸- Pronouns: she/her</li>
+    <li>🔥 - Hobbies: studying, drawing and listening to music</li>
+    <li>💻 - Occupation: Computer Science student</li>
+    <li>⌚ - Current ultimate goal: to be the best at math</li>
 </ul>
 <br>
 
 And I also like Jojo's Bizarres Adventure and Berserk 👻
 
 ![bruno header](images/bruno-header.jpg)
+
 
 <br>
 <hr>
