@@ -10,7 +10,7 @@
 
 ## About me:
 <ul>
-    <li> 🌱 - >Name: Sâmia </li>
+    <li> 🌱 - Name: Sâmia </li>
     <li>🧸- Pronouns: she/her</li>
     <li>🔥 - Hobbies: studying, drawing and listening to music</li>
     <li>💻 - Occupation: Computer Science student</li>
